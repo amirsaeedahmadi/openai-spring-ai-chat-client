@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.sharif.web.streaming.StreamingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.30 s -- in edu.sharif.web.streaming.StreamingApplicationTests
